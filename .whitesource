@@ -2,12 +2,11 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-	"enableLicenseViolations": "true",
-	"enableIaC": "true",
+    "enableLicenseViolations": "true",
+    "enableIaC": "true",
     "projectToken": "",
     "baseBranches": [],
-    "enableSAST": "true",
-    "enableLicenseViolations": "true"    
+    "enableSAST": "true"      
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
